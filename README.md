@@ -2,7 +2,7 @@
 
 Hi there! I'm Priyam Gupta, a passionate and driven B.Sc. (H) Computer Science student at Hansraj College, University of Delhi. I'm excited about using technology to solve real-world problems and community empowerment.
 
-Contact:*
+Contact:
 
   * Email: priyamgupta2806@gmail.com
   * LinkedIn: https://www.linkedin.com/in/priyam-gupta-824304291/
