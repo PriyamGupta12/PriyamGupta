@@ -2,7 +2,8 @@
 
 #Priyam Gupta 
 
-** Hi there!** I'm Priyam Gupta, a passionate and driven B.Sc. (H) Computer Science student at Hansraj College, University of Delhi. I'm excited about using technology to solve real-world problems and community empowerment.
+** Hi there!** 
+   *I'm Priyam Gupta, a passionate and driven B.Sc. (H) Computer Science student at Hansraj College, University of Delhi. I'm excited about using technology to solve real-world problems and community empowerment.
 
 ** Contact:**
 
