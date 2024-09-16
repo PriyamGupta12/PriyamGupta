@@ -23,8 +23,8 @@ Co-Curricular Achievements & Awards:
 * Jointly conducted by Ministry of Consumer Affairs and IIT BHU, Varanasi
 
 
-Technical Proficiency: 
-  *Programming Languages: Python, C++, R
-  *Data Science:   Python Libraries(SkLearn, Tensorflow, Matplotlib, seaborn, numpy, pandas), Statistics, Probability, Algebra
-  *Tools: MS Excel, Canva
-  *Web Development: HTML,CSS,JS
+Technical Proficiency:
+* Programming Languages: Python, C++, R
+* Data Science:   Python Libraries(SkLearn, Tensorflow, Matplotlib, seaborn, numpy, pandas), Statistics, Probability, Algebra
+* Tools: MS Excel, Canva
+* Web Development: HTML,CSS,JS
